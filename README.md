@@ -158,6 +158,13 @@ Social media platforms face critical challenges:
 
 ## 🗄️ Database Design
 
+### ERD
+![ERD](https://github.com/user-attachments/assets/de01165e-9a82-43cf-926b-cdfba4d23936)
+
+### Mapping
+![Mapping](https://github.com/user-attachments/assets/e1a5122b-c1e2-42fe-87d9-bc2c65c9710f)
+
+
 ### Conceptual Model
 
 The database follows **Third Normal Form (3NF)** to eliminate redundancy while maintaining query performance through strategic denormalization where necessary.
